@@ -12,6 +12,17 @@
 - Cross platform testing
 - Cross browser testing
 - E2E testing
+- Proficiency in Javascript and C#
+- Error tickets creation
+- 
+
 
 ### Tools
+- Jira
+- Azure
+- Mantis
+- Postman
+- Swagger
+- DevTools
+
 ### My projects
